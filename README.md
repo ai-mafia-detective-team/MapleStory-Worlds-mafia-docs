@@ -31,6 +31,7 @@
 
 ## 🗂️ 문서 구조
 
+```
 MapleStory-Worlds-mafia-docs/
 │
 ├── 📋 planning/             # 기획 문서
@@ -61,7 +62,7 @@ MapleStory-Worlds-mafia-docs/
 ├── codex-prompts.md     # 코드 생성용
 ├── image-prompts.md     # 이미지 생성용
 └── ui-prompts.md        # UI 생성용
-
+```
 
 
 ---
